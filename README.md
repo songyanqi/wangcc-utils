@@ -1,4 +1,5 @@
-## wangcc-utils
+## 自己封装npm包
+
 The wangcc-utils library exported as esm and cjs.
 
 ### Install:
